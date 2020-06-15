@@ -4,10 +4,27 @@
   
   <url>
     <loc>https://mathurankit.com/</loc>
+    <lastmod>2020-06-15T00:59:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mathurankit.com/tags/blog/</loc>
+    <lastmod>2020-06-15T00:59:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mathurankit.com/blog/blog-init/</loc>
+    <lastmod>2020-06-15T00:59:40+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mathurankit.com/blog/</loc>
+    <lastmod>2020-06-15T00:59:40+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://mathurankit.com/tags/</loc>
+    <lastmod>2020-06-15T00:59:40+02:00</lastmod>
   </url>
   
 </urlset>

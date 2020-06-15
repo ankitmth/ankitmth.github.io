@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
+    <lastBuildDate>Mon, 15 Jun 2020 00:59:40 +0200</lastBuildDate>
     
 	<atom:link href="https://mathurankit.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>blog</title>
+      <link>https://mathurankit.com/tags/blog/</link>
+      <pubDate>Mon, 15 Jun 2020 00:59:40 +0200</pubDate>
+      
+      <guid>https://mathurankit.com/tags/blog/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
